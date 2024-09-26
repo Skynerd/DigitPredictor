@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ProgramingProject\\To Show\\DigitPredictorAI\\DigitPredictorAI.csproj": {}
+    "D:\\ProgramingProject\\To Show\\DigitPredictor\\DigitPredictorAI.csproj": {}
   },
   "projects": {
-    "D:\\ProgramingProject\\To Show\\DigitPredictorAI\\DigitPredictorAI.csproj": {
+    "D:\\ProgramingProject\\To Show\\DigitPredictor\\DigitPredictorAI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ProgramingProject\\To Show\\DigitPredictorAI\\DigitPredictorAI.csproj",
+        "projectUniqueName": "D:\\ProgramingProject\\To Show\\DigitPredictor\\DigitPredictorAI.csproj",
         "projectName": "DigitPredictorAI",
-        "projectPath": "D:\\ProgramingProject\\To Show\\DigitPredictorAI\\DigitPredictorAI.csproj",
+        "projectPath": "D:\\ProgramingProject\\To Show\\DigitPredictor\\DigitPredictorAI.csproj",
         "packagesPath": "C:\\Users\\sayid\\.nuget\\packages\\",
-        "outputPath": "D:\\ProgramingProject\\To Show\\DigitPredictorAI\\obj\\",
+        "outputPath": "D:\\ProgramingProject\\To Show\\DigitPredictor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

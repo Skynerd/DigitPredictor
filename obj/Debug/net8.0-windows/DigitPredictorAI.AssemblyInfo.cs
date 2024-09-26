@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitPredictorAI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74008e0339cb2dad2aed79264ed5193640b2d080")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitPredictorAI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitPredictorAI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
