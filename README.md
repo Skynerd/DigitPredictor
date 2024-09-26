@@ -13,7 +13,7 @@
 
 - **Real-time digit drawing**: Users can draw digits directly within the interface.
 - **Accurate predictions**: The system uses a trained model to recognize and predict digits with high accuracy.
-- **Simple and clean user interface**: Designed to be intuitive for users of all skill levels.
+- **Simple and clean user interface**: Designed to be intuitive for all skill levels.
 
 ## Technologies Used
 
