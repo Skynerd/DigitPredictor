@@ -34,6 +34,7 @@ namespace DigitPredictorAI
 
 
 
+
         private void frmDigit_Load(object sender, EventArgs e)
         {
             ClearCanvas();
