@@ -20,7 +20,7 @@
 
 - **Language**: C# 100.0%
 - **.NET Framework**: For the application and interface.
-- **Machine Learning Framework**: created a class called scratch from Common.NeuralNetwork
+- **Machine Learning Framework**: created a class from scratch called Common.NeuralNetwork
 
  
 ## How to Use
