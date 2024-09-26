@@ -6,7 +6,6 @@
 
 ## Demo
 
-![DigitPredictor Demo](https://github.com/Skynerd/DigitPredictor/blob/main/assets/demo.gif)
 
 
 ## Features
