@@ -30,7 +30,4 @@
 3. The predicted digit will be displayed on the interface.
  
  
-
-## License
-
-This project is licensed under the MIT License.
+ 
