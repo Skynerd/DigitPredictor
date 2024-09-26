@@ -31,9 +31,7 @@ namespace DigitPredictorAI
 
         // paths
         string curPath = Directory.GetCurrentDirectory();
-
-
-
+         
 
         private void frmDigit_Load(object sender, EventArgs e)
         {
@@ -101,6 +99,14 @@ namespace DigitPredictorAI
         private void btnClear_Click(object sender, EventArgs e)
         {
             ClearCanvas();
+            label1.Text = "";
+            for (int i = 0; i < 10; i++)
+            {
+                label1.Text += i.ToString() + " - " + "\n";
+            }
+            label1.Text += "Ans: ";
+            label1.Text = label1.Text.Trim();
+            label1.Update();
         }
     }
 }
