@@ -6,7 +6,7 @@
 
 ## Demo 
 
-![DigitPredictor Demo](https://github.com/Skynerd/DigitPredictor/blob/main/assets/demo.gif)
+![DigitPredictor Demo](https://github.com/Skynerd/DigitPredictor/blob/main/assets/demoView.gif)
 
 
 
