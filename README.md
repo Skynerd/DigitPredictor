@@ -4,6 +4,11 @@
 
 **DigitPredictor** is a machine learning project built with C# that predicts handwritten digits (0-9). The user draws a digit on an interface, and the system recognizes and predicts which digit has been drawn using a pre-trained model.
 
+## Demo
+
+![DigitPredictor Demo](https://github.com/your-username/DigitPredictor/assets/demo.gif)
+
+
 ## Features
 
 - **Real-time digit drawing**: Users can draw digits directly within the interface.
